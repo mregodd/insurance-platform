@@ -40,10 +40,8 @@ build/
 .DS_Store
 
 # Maven & Java
-target/
 *.log
 *.class
 
 # OS dosyaları
-.DS_Store
 Thumbs.db
